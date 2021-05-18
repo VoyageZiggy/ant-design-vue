@@ -22,7 +22,6 @@
     }
   ],
   "rules": {
-    "comma-dangle": [2, "always-multiline"],
     "no-var": "error",
     "no-console": [2, { "allow": ["warn", "error"] }],
     "object-shorthand": 2,
